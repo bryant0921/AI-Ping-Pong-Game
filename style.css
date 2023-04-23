@@ -1,0 +1,14 @@
+body
+{
+    background-size: cover;
+}
+ 
+.copy_right-footer
+{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    
+}
